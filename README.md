@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-I'm Johanna, a soon to be full-stack developer attending @Technigo [Web Development Boot Camp](https://www.technigo.io/web-development-boot-camp).
+I'm Johanna! I'm a full-stack developer living Stockholm. Have a look around and say Hi! 
 
 📬 Contact me via johanna@leonsson.se or say **Hello** via [Linkedin](https://www.linkedin.com/in/johannaleonsson/)! 🤓
 
