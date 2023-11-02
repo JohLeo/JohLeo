@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-I'm Johanna! I'm a frontend developer with a full-stack passion. 
+I'm Johanna! I'm a frontend developer. Have a look around!
 
 📬 Contact me via johanna@leonsson.se or say **Hello** via [Linkedin](https://www.linkedin.com/in/johannaleonsson/)! 🤓
 
