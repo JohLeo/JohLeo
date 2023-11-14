@@ -1,4 +1,4 @@
-### Hi 👋
+**Hello** 👋
 
 🧑🏻‍💻 I'm Johanna, a frontend developer based in Stockholm, Sweden.\
 🪄 My stack include, but is not limited to: React & TypeScript. \
