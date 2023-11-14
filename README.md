@@ -15,4 +15,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,git,mongodb,nodejs,webpack,postman,gcp,vscode,netlify,stackoverflow,ai,ps,figma&theme=light&perline=6)](https://skillicons.dev)
 ![Transparent Image](https://placehold.co/20x40/fff/fff) <!-- Replace with a transparent image URL or use a transparent image placeholder service -->
-![JohLeo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohLeo&bg_color=90,fff,E9E1D9&title_color=233D2B&text_color=233D2B&show_icons=true&hide_border=true&layout=compact)
+![JohLeo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohLeo&bg_color=90,fff,E9E1D9&title_color=233D2B&text_color=233D2B&show_icons=true&hide_border=true&hide=procfile&layout=compact)
