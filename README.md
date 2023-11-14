@@ -1,9 +1,11 @@
 ### Hi 👋
 
-- 🧑🏻‍💻 I'm Johanna, a frontend developer based in Stockholm, Sweden.
-- 🪄 My stack include, but is not limited to: TypeScript & React. 
-- 🌲 I like fun tech, running in the woods, cold drinks and crispy croissants.
 
+ 🧑🏻‍💻 I'm Johanna, a frontend developer based in Stockholm, Sweden.\
+ 🪄 My stack include, but is not limited to: TypeScript & React. \
+ 🌲 I like fun tech, running in the woods, cold drinks and crispy croissants.\
+ \
+\
 📬 Contact me via johanna@leonsson.se or say **Hello** via [Linkedin](https://www.linkedin.com/in/johannaleonsson/)! 🤓
 
 **My portfolio ➡**  [www.johannaleonsson.com](https://johannaleonsson.com)
