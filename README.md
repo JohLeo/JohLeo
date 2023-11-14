@@ -12,10 +12,9 @@
 
 
 ![JohLeo's Stats](https://github-readme-stats.vercel.app/api?username=JohLeo&bg_color=95,fff,E9E1D9&title_color=233D2B&text_color=233D2B&show_icons=true&icon_color=F6CFDC&hide_border=true&count_private=true&hide=stars)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,git,mongodb,nodejs,webpack,postman,gcp,vscode,netlify,stackoverflow,ai,ps,figma&theme=light&perline=6)](https://skillicons.dev)
 ![Transparent Image](https://placehold.co/20x40/fff/fff)
 ![JohLeo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohLeo&bg_color=90,fff,E9E1D9&title_color=233D2B&text_color=233D2B&show_icons=true&hide_border=true&hide=procfile&layout=compact)
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,git,mongodb,nodejs,webpack,postman,gcp,vscode,netlify,stackoverflow,ai,ps,figma&theme=light&perline=9)](https://skillicons.dev)
 
 
