@@ -8,7 +8,7 @@
 \
 📬 Contact me via johanna@leonsson.se or say **Hello** via [Linkedin](https://www.linkedin.com/in/johannaleonsson/)!
 
-**My portfolio ➡**  [www.johannaleonsson.com](https://johannaleonsson.com)
+## **My portfolio ➡**  [www.johannaleonsson.com](https://johannaleonsson.com)
 
 
 ![JohLeo's Stats](https://github-readme-stats.vercel.app/api?username=JohLeo&bg_color=95,fff,E9E1D9&title_color=233D2B&text_color=233D2B&show_icons=true&icon_color=F6CFDC&hide_border=true&count_private=true) 
