@@ -7,7 +7,7 @@
 **Portfolio – [www.johannaleonsson.com](https://johannaleonsson.com)**
 \
 \
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,git,mongodb,nodejs,webpack,postman,gcp,vscode,netlify,stackoverflow,ai,ps,figma&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,git,mongodb,nodejs,webpack,postman,gcp,vscode,netlify,stackoverflow,ai,ps,figma&theme=light&perline=9)](https://skillicons.dev)
 
 
 
