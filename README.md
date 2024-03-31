@@ -1,7 +1,8 @@
 **Hello** 👋
 
-🧑🏻‍💻 I'm Johanna, a frontend developer based in Stockholm, Sweden.\
+🧑🏻‍💻 I'm Johanna, a fullstack developer based in Stockholm, Sweden.\
 🪄 My stack include, but is not limited to: React & TypeScript. \
+🚀 Currently learning C# and .NET \
 🌲 I like fun tech, running in the woods, cold drinks and crispy croissants.\
 \
 **Portfolio – [www.johannaleonsson.com](https://johannaleonsson.com)**
